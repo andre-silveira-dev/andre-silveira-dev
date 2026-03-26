@@ -73,9 +73,9 @@ class DevInfo():
 ![Top Languages](./profile/top-langs.svg)
 ![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=andre-silveira-dev&theme=tokyonight&hide_border=true" />
-</div>
+</div> -->
 
 <!-- --- -->
 <!-- 
