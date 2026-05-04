@@ -1,8 +1,8 @@
 
       <svg
         width="300"
-        height="375"
-        viewBox="0 0 300 375"
+        height="350"
+        viewBox="0 0 300 350"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -128,11 +128,11 @@
           cy="100"
           r="80"
           fill="transparent"
-          stroke="#555555"
+          stroke="#00B4AB"
           stroke-width="25"
           stroke-dasharray="502.6548245743669"
           stroke-dashoffset="0"
-          size="27.382629877840532"
+          size="52.929066067752196"
           data-testid="lang-donut"
         />
       </g>
@@ -146,8 +146,8 @@
           stroke="#3572A5"
           stroke-width="25"
           stroke-dasharray="502.6548245743669"
-          stroke-dashoffset="137.6401101763075"
-          size="26.463210796897723"
+          stroke-dashoffset="266.05050419171056"
+          size="28.485869361781766"
           data-testid="lang-donut"
         />
       </g>
@@ -158,56 +158,11 @@
           cy="100"
           r="80"
           fill="transparent"
-          stroke="#427819"
+          stroke="#00ADD8"
           stroke-width="25"
           stroke-dasharray="502.6548245743669"
-          stroke-dashoffset="270.6587159841987"
-          size="19.960780499720666"
-          data-testid="lang-donut"
-        />
-      </g>
-    
-      <g class="stagger" style="animation-delay: 400ms">
-        <circle 
-          cx="150"
-          cy="100"
-          r="80"
-          fill="transparent"
-          stroke="#00B4AB"
-          stroke-width="25"
-          stroke-dasharray="502.6548245743669"
-          stroke-dashoffset="370.99254218874404"
-          size="12.673960196956982"
-          data-testid="lang-donut"
-        />
-      </g>
-    
-      <g class="stagger" style="animation-delay: 500ms">
-        <circle 
-          cx="150"
-          cy="100"
-          r="80"
-          fill="transparent"
-          stroke="#178600"
-          stroke-width="25"
-          stroke-dasharray="502.6548245743669"
-          stroke-dashoffset="434.69881458338324"
-          size="6.881959256050864"
-          data-testid="lang-donut"
-        />
-      </g>
-    
-      <g class="stagger" style="animation-delay: 600ms">
-        <circle 
-          cx="150"
-          cy="100"
-          r="80"
-          fill="transparent"
-          stroke="#DA3434"
-          stroke-width="25"
-          stroke-dasharray="502.6548245743669"
-          stroke-dashoffset="469.2913148091651"
-          size="6.637459372533232"
+          stroke-dashoffset="409.23610086065804"
+          size="18.58506457046603"
           data-testid="lang-donut"
         />
       </g>
@@ -218,44 +173,23 @@
         <svg data-testid="lang-names" x="25">
           <g transform="translate(0, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#555555" />
+      <circle cx="5" cy="6" r="5" fill="#00B4AB" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C 27.38%
+        Dart 52.93%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python 26.46%
-      </text>
-    </g>
-  </g><g transform="translate(0, 50)">
-    <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#427819" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Makefile 19.96%
+        Python 28.49%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#00B4AB" />
+      <circle cx="5" cy="6" r="5" fill="#00ADD8" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Dart 12.67%
-      </text>
-    </g>
-  </g><g transform="translate(0, 25)">
-    <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#178600" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C# 6.88%
-      </text>
-    </g>
-  </g><g transform="translate(0, 50)">
-    <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#DA3434" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        CMake 6.64%
+        Go 18.59%
       </text>
     </g>
   </g></g>
